@@ -4,8 +4,9 @@
 }
 
 body{
+
     background-color: #ffffff;
-    font-family: sans-serif;
+    font-family:Arial, Helvetica, sans-serif;
 }
 form{
     max-width: 600px;
